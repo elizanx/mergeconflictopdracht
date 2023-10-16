@@ -109,7 +109,7 @@ git merge feature
 - maak alletwee 1 haiku function erbij net als basicHaiku
 - noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
 ```
-zie https://github.com/progsen/haikugitopdracht voor ideeen
+let student2Haiku = ["Blowing from the west","Fallen leaves gather","In the east."]
 ```
 
 - student 1 + 2 commiten hun werk
