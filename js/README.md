@@ -69,6 +69,7 @@ git merge feature
 - verander alletwee 1 van de 3 strings in de array (zie hieronder), overleg wie welke veranderd
 ```
 ["Toward those short trees","We saw a pigeon descending","On a day in spring."]
+["Toward those short trees","We saw a hawk descending","On a cold winter morning."]
 ```
 ### regel nummers:
 - string 1 = Toward those short trees
