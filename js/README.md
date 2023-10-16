@@ -111,6 +111,7 @@ git merge feature
 - noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
 ```
 let student1Haiku = [In the cicada's cry] [No sign can foretell] [How soon it must die.]
+let student2Haiku = ["Blowing from the west","Fallen leaves gather","In the east."]
 ```
 
 - student 1 + 2 commiten hun werk
